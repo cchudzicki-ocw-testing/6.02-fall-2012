@@ -42,7 +42,7 @@ At the end of the course, a successful student will understand these topics and 
 Software
 --------
 
-{{< resource_link ce720f9a-7dbb-d506-7a90-cdac312f0518 "Instructions for setting up the 6.02 environment on your computer" >}}
+{{% resource_link ce720f9a-7dbb-d506-7a90-cdac312f0518 "Instructions for setting up the 6.02 environment on your computer" %}}
 
 Problem Sets
 ------------

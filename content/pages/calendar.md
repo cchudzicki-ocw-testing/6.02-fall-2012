@@ -6,7 +6,7 @@ title: Calendar
 uid: bd930985-e971-4c64-c8a9-fa7e3d9571c7
 ---
 
-The chapters listed below are from the 6.02 course notes, which can be found in the {{< resource_link 43bcc3e8-ea29-e5d6-f9ca-9dfe5f636a71 "Readings" >}} section.
+The chapters listed below are from the 6.02 course notes, which can be found in the {{% resource_link 43bcc3e8-ea29-e5d6-f9ca-9dfe5f636a71 "Readings" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
